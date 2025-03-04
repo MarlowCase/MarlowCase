@@ -8,10 +8,6 @@ I'm currently working on a personal website that will serve as a hub for my feat
 When that is in a functional state, I will post the link here. 
 
 
-## My Stats
-![Marlow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlowCase&show_icons=true&theme=radical)
-
-
 <!--
 **MarlowCase/MarlowCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
